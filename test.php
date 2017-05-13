@@ -116,8 +116,7 @@ apiRequest("sendMessage", array('chat_id' => $chat_id, "text" => $pmembersiddd[1
   
 apiRequest("sendMessage", array('chat_id' => $chat_id, "text" => "<b>You Are Banned</b>🚫
 Get Out Of Here Idiot🖕
---------------------------------
-شما در لیست سیاه قرار دارید 🚫
+--------------------------------شما در لیست سیاه قرار دارید 🚫
 لطفا پیام ندهید🖕" ,"parse_mode" =>"HTML"));	
 }
     }
